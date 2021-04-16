@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Prathiksha\\Downloads\\flutter_hangman\\flutter_hangman\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Prathiksha\\Desktop\\hangman\\flutter_hangman\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Prathiksha\\Downloads\\flutter_hangman\\flutter_hangman\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Prathiksha\\Desktop\\hangman\\flutter_hangman\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

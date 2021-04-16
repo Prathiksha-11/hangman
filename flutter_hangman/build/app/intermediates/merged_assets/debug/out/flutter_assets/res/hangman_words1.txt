@@ -1,0 +1,10 @@
+abstraction
+ascii
+access
+address
+algorithm
+application
+architecture
+archive
+array
+assembler
